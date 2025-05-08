@@ -14,13 +14,31 @@ Second, cook in batches, and have at least three meals prepared ahead of time.
 
 Third, plan your menus for the week, and make your shopping list accordingly.
 
-This book has recipes for green vegetables, starches like rice and potatoes, and proteins like fish and meat. For a typical meal, combine one of each. Chicken and rice have their own section since they go so well together.
+** Meal planning
 
-** Packing, plating and herbs
+For a typical meal, plan to have one green vegetable, one starch, and one protein. Here are examples:
+
+- Black beans with ground beef and dino kale
+- Rice, chicken and bok choi
+- Microwave potatoes, sausage and asparagus.
+
+[[id:85f6791c-2c3a-11f0-8218-9972eed4dabe][Chicken and rice]] have their own section since they go so well together.
+
+Simpler combinations work too:
+- Dhal and hardboiled eggs
+- White beans and sausage
+- These [[id:1e9d403b-2c3a-11f0-8218-9972eed4dabe][pasta]] dishes can be eaten with or without a side protein.
 
 Ideally, when mealtime comes, you have should have no cooking to do. Aim to have all the ingredients ready, cooked ahead of time, stored in the fridge.
 
 If you're eating lunch at work, pack your lunch in the morning, or the night before. If you're eating at home, all you have is plate your meal and reheat it in microwave.
+
+Make your plate look amazing with lots of [[id:dc8231db-2c39-11f0-8218-9972eed4dabe][herbs]].
+
+** Herbs
+:PROPERTIES:
+:ID:       dc8231db-2c39-11f0-8218-9972eed4dabe
+:END:
 
 The secret to make your plate look amazing, and taste delicious, is herbs. Don't mereley sprinkle them on your plate, put a lot on, almost like a vegetable. When packing your lunch, put the herbs in. It's OK if they go in the microwave when you reheat it. Whean eating at home, I put the herbs in after reheating my plate.
 
@@ -88,6 +106,9 @@ Ingredients for 3 portions:
 Dice one onion. Warm up 2 tablespoons of oil in cooking pot. Cook onions until nice and brown. Add diced tomatoes. Bring to a gentle boil, then add 1 tablespoon gochujang, 1 dash fish sauce, salt as needed. Simmer for 10mns. Add beans and their liquid. Don't discard the liquid! It's delicious. Cook for another 10mns. Adjust salt levels.
 
 *** Overnight steel cut oats
+:PROPERTIES:
+:ID:       0fc872da-2c38-11f0-8218-9972eed4dabe
+:END:
 
 Great for breakfast with sugar and butter, in yogurt, or savory as a substitute for rice. Not to be confused with rolled oats.
 
@@ -166,6 +187,9 @@ They taste great when a little soft, they will reheat better and have a better t
 *** Omelets
 
 **** Method 1: microwave oven
+:PROPERTIES:
+:ID:       ee53971c-2c37-11f0-8218-9972eed4dabe
+:END:
 
 This is a fun recipe for individual, single-portions omelets. They take less than 5 minutes to make, and they're great for breakfast. In a bowl, crack two eggs, 2 tablespoons of liquid cream or cottage cheese, salt, pepper, a dash of fish sauce. You can also add a big teaspoon of gochujang. Whisk until homogeneous. Cook in microwave oven for 90 seconds (1:30m). Scramble with a fork, then add a starch (chopped potatoes, spoonful of rice, quinoa...). You can also add ground meat or any protein. Put in microwave for another 90s (1:30m). Dress with chopped green onions, serve with kimchi and your favorite flavoring sauce.
 
@@ -180,6 +204,9 @@ You can use any starch or protein as garnish inside your omelet. Delicious with 
 For 3 people: beat 6 eggs in a large bowl. Heat up 2 tblspoons of butter in skillet. Once hot, drop eggs in skillet. With a spatula, wrinkle the eggs once a bottom layer starts to form. Do it a couple more times. With some of the egg still uncooked, add grated cheese. Bring down stove to lower setting. Reheat your garnishes, and spread over the omelet. Fold in half, and let cook another couple minutes. Slice with spatula in skillet, plate and top with chopped green onions or parsley.
 
 **** Method 3: frittata
+:PROPERTIES:
+:ID:       96e08d3c-2c38-11f0-8218-9972eed4dabe
+:END:
 
 This recipe keeps for 3 days. Great for packed lunches and no-cook breakfasts.
 Ingredients for 8 portions:
@@ -194,6 +221,9 @@ Heat up the oven at 350F. In a large bowl, break 8 eggs, top with 1 cup of liqui
 Heat up a skillet with 2 tablespoons of oil. When hot, pour the egg batter. Let it cook for one minute, then wrinkle the eggs a couple of times, detaching the bottom layer, scrambling gently. When you the batter is half-cooked and half-liquid, put in the oven. Let it cook for about 20mns, until nice and golden on top. Then let it cool for 5mns, detach the edges from the skillet using a spatula, and flip it upside-down on a cutting board. Cut in wedges or in squares. Plate and top with herbs, or keep in the fridge for up to 3 days.
 
 ** Pasta
+:PROPERTIES:
+:ID:       1e9d403b-2c3a-11f0-8218-9972eed4dabe
+:END:
 
 *** Pasta pomodoro
 
@@ -228,6 +258,9 @@ Blanch pasta in boiling water with 2 talespoons of oil and a small fistful of sa
 
 
 ** Chicken and rice
+:PROPERTIES:
+:ID:       85f6791c-2c3a-11f0-8218-9972eed4dabe
+:END:
 
 The basic recipe is declined in very many ways around the world. Here are a few variations that are easy to prepare and reuse.
 
@@ -298,9 +331,16 @@ Ingredients (4 portions):
 
 Dice onion and red pepper. In a cooking pot, warm up 2 tablespoons of oil. Saute onions together with red pepper until brown. While they cook, trim green end of eggplants, and cut them up in 1.5 inch cuboids. Trim zucchini stem and dice them. Once onions and red pepper are done, add diced tomato. Add plenty of salt, one big dash of fish sauce, and gochujang. Mix in zucchini and eggplant. Bring to a light boil, reduce to a simmer. Cover and cook for about 90 minutes. Check for salt at the 60 minute mark.
 
-** Sandwiches
-
 ** Breakfast
+
+Possibly the most important meal of the day. A few ideas:
+- [[id:ee53971c-2c37-11f0-8218-9972eed4dabe][Microwave oven omelet]] or leftover [[id:96e08d3c-2c38-11f0-8218-9972eed4dabe][frittata]].
+- [[id:0fc872da-2c38-11f0-8218-9972eed4dabe][Steel cut oats]] with butter, sugar and cinnamon. Prepare the night before. When plating, add 1 teaspoon of butter, 2 tablespoons of sugar, microwave for 3 minutes. Sprinkle with cinnamon.  Optional: top with berries or bananas.
+- Greek yogurt with sugar, cinnamon and a starch. Delicious with steel cut oats, rice, or sweet potato. Mix in the sugar, top off with the starch, sprinkle cinnamon.
+
+Make your coffee the night before.
+
+** Sandwiches
 
 ** Planning: making menus and shopping list
 
