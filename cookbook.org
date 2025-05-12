@@ -33,14 +33,14 @@ Ideally, when mealtime comes, you have should have no cooking to do. Aim to have
 
 If you're eating lunch at work, pack your lunch in the morning, or the night before. If you're eating at home, all you have is plate your meal and reheat it in microwave.
 
-Make your plate look amazing with lots of [[id:dc8231db-2c39-11f0-8218-9972eed4dabe][herbs]] (see section below).
+Make your plate look amazing with lots of [[id:dc8231db-2c39-11f0-8218-9972eed4dabe][herbs]] (see section below), and kimchi. Try different kinds of kimchi: plain, radish, cucumber...
 
 ** Herbs
 :PROPERTIES:
 :ID:       dc8231db-2c39-11f0-8218-9972eed4dabe
 :END:
 
-The secret to make your plate look amazing, and taste delicious, is herbs. Don't mereley sprinkle them on your plate, put a lot on, almost like a vegetable. When packing your lunch, put the herbs in. It's OK if they go in the microwave when you reheat it. Whean eating at home, I put the herbs in after reheating my plate.
+Herbs will make your plate look amazing, and taste delicious. Don't mereley sprinkle them on your plate, put a lot on, almost like a vegetable. When packing your lunch, put the herbs in. It's OK if they go in the microwave when you reheat it. Whean eating at home, I put the herbs in after reheating my plate.
 
 *** Green onions
 
@@ -332,6 +332,10 @@ Ingredients (4 portions):
 
 Dice onion and red pepper. In a cooking pot, warm up 2 tablespoons of oil. Saute onions together with red pepper until brown. While they cook, trim green end of eggplants, and cut them up in 1.5 inch cuboids. Trim zucchini stem and dice them. Once onions and red pepper are done, add diced tomato. Add plenty of salt, one big dash of fish sauce, and gochujang. Mix in zucchini and eggplant. Bring to a light boil, reduce to a simmer. Cover and cook for about 90 minutes. Check for salt at the 60 minute mark.
 
+** Miso soup
+
+
+
 ** Breakfast
 
 Possibly the most important meal of the day. A few ideas:
@@ -343,9 +347,17 @@ Make your coffee the night before.
 
 ** Sandwiches
 
+** Food safety
+
+Keep food safety in mind. A few principles:
+- Wash your hand before and after cooking
+- Wash your hands immediately before and immediately after touching meat or fish. Don't touch anything else before washing your hands.
+- Disinfect cutting boards
+
 ** Planning: making menus and shopping list
 
-** Food safety - cleaning up
+It is most efficient to plan your meals in advance, so that you can reduce the amount of time spent grocery shopping and cooking.
+
 
 ** Maintenance
 - Skillet
