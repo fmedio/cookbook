@@ -2,6 +2,8 @@
 
 For Luc and Marc
 
+TODO Marc: add poulet basquaise
+
 ** Introduction
 
 Inexpensive, fast, healthy, delicious food. You can have it all if you make it yourself. This book has basic recipes that are can be stored, reheated and combined. They can be easily packed for lunch at work.
@@ -327,7 +329,7 @@ Very versatile dish that can be used as a side, or as a main course if you add a
 
 Ingredients (4 portions):
 - 2 eggplants
-- 6 zucchini
+- 6 small zucchini
 - 1 onion
 - 1 red pepper
 - 2 14oz cans diced tomato (fire roasted even better)
