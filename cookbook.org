@@ -2,7 +2,15 @@
 
 For Luc and Marc
 
-TODO Marc: add poulet basquaise
+TODO add
+- poulet basquaise
+- zosui soup
+- miso soup
+- blackened salmon
+
+TODO
+- Talk about parchment paper
+- Remove gochujang/gochugaru from bases
 
 ** Introduction
 
@@ -33,7 +41,7 @@ Simpler combinations work too:
 
 Ideally, when mealtime comes, you have should have no cooking to do. Aim to have all the ingredients ready, cooked ahead of time, stored in the fridge.
 
-If you're eating lunch at work, pack your lunch in the morning, or the night before. If you're eating at home, all you have is plate your meal and reheat it in microwave.
+If you're eating lunch at work, pack your lunch in the morning, or the night before. If you're eating at home, just plate your meal and reheat it in microwave.
 
 Make your plate look amazing with lots of [[id:dc8231db-2c39-11f0-8218-9972eed4dabe][herbs]] (see section below), and kimchi. Try different kinds of kimchi: plain, radish, cucumber...
 
@@ -80,7 +88,7 @@ Preheat oven at 400F. Put 2 tablespoons of oil in a skillet, warm it up on the s
 
 *** Dhal
 
-Super versatile, can be a meal by itself, or combined with a protein and a green vegetable.
+Very versatile, can be a meal by itself, or combined with a protein and a green vegetable.
 
 Ingredients for 3 portions:
 - 1 cup red lentils
@@ -337,10 +345,6 @@ Ingredients (4 portions):
 - Fish sauce
 
 Dice onion and red pepper. In a cooking pot, warm up 2 tablespoons of oil. Saute onions together with red pepper until brown. While they cook, trim green end of eggplants, and cut them up in 1.5 inch cuboids. Trim zucchini stem and dice them. Once onions and red pepper are done, add diced tomato. Add plenty of salt, one big dash of fish sauce, and gochujang. Mix in zucchini and eggplant. Bring to a light boil, reduce to a simmer. Cover and cook for about 90 minutes. Check for salt at the 60 minute mark.
-
-** Miso soup
-
-
 
 ** Breakfast
 
