@@ -13,7 +13,6 @@ TODO
 - Remove gochujang/gochugaru from bases
 
 ** Introduction
-
 Inexpensive, fast, healthy, delicious food. You can have it all if you make it yourself. This book has basic recipes that are can be stored, reheated and combined. They can be easily packed for lunch at work.
 
 Before we start, here are important things to remember.
@@ -25,7 +24,6 @@ Second, cook in batches, and have at least three meals prepared ahead of time.
 Third, plan your menus for the week, and make your shopping list accordingly.
 
 ** Meal planning
-
 For a typical meal, plan to have one green vegetable, one starch, and one protein. Here are examples:
 
 - Black beans with ground beef and dino kale
@@ -53,41 +51,32 @@ Make your plate look amazing with lots of [[id:dc8231db-2c39-11f0-8218-9972eed4d
 Herbs will make your plate look amazing, and taste delicious. Don't mereley sprinkle them on your plate, put a lot on, almost like a vegetable. When packing your lunch, put the herbs in. It's OK if they go in the microwave when you reheat it. Whean eating at home, I put the herbs in after reheating my plate.
 
 *** Green onions
-
 They're delicious, with a great crunchy texture. Just cut out the roots, and use the entire plant, white and green parts. Chop not too thin (1/8 to 1/4 inch) so that they retain some bite. The downside is that they don't keep very long. To increase their shelf life, unbundle them before storing, otherwise the humidity will make them wilt faster. Then leave them in a paper bag in the fridge.
 
 *** Parsley
-
 Parsley comes in two sorts, italian and curly. Italian parsley has straight leaves. Both look great on a plate. Both kinds have a mild taste, and keep more than a week in the fridge.
 
 *** Cilantro
-
 Cilantro has a unique flavor that goes well with Asian and latino-american dishes. Beware that it tastes like soap to some people, because of a genetic
 
 ** Starches: grains, beans and root vegetables
 
 *** Rice
-
 Use white rice. Basmati and Calrose are great choices. In a pot, put one measure of rice, and one-and-a-half measure of water. For three servings of rice, use two cups of rice and three cups of water. Add two pinches of salt. Bring to a light boil, then reduce to a simmer on your lowest stove setting. Cover, and leave on for twenty minutes. Turn off the stove, let it rest for another ten minutes. You're done.
 
 *** Potatoes
-
 Buy fingerling potaoes and use them whole, skin on. Or buy Yukon Golds, and chop them in 1.5-inch cuboids. In a bowl, toss with a bit of oil, good amount of salt, pepper, gochugaru or smoked paprika.
 
 **** Method 1: microwave oven
-
 Microwave for 3mns at a time. Toss and test with a fork between each 3mn run. It will take 6 to 9 minutes to get them fully cooked thru.
 
 **** Method 2: oven
-
 Preheat oven at 400F. Spread potatoes on baking sheet, mix with 2 tablspoons of oil, good amount of salt, pepper, gochugaru or smoked paprika. Space out the chunks, ideally they won't touch. That will give you better Maillard. Bake 20 minutes, turn/toss the potatoes, bake another 15mns or so.
 
 *** Sweet potatoes
-
 Preheat oven at 400F. Put 2 tablespoons of oil in a skillet, warm it up on the stove. Put sweet potatoes on skillet, sprinkle salt and pepper, then straight in the oven. Turn after 30 minutes, then another 30mns in oven. 60 minutes total. Check for doneness with a fork.
 
 *** Dhal
-
 Very versatile, can be a meal by itself, or combined with a protein and a green vegetable.
 
 Ingredients for 3 portions:
@@ -102,7 +91,6 @@ Ingredients for 3 portions:
 Dice the onion. In cooking pot, warm up 3 tablespoons of oil. Put half a teaspoon of cumin seed, let it sizzle for a minute. Then add a teaspoon of tumeric, and one of curry powder. Mix in with oil, let color darken a litle. Add diced onion, let them brown for a bit. Add 1 can diced tomatoes, mix them in with the onion. Then add 1 cup red lentils, 3 cups of water, 1 dash of fish sauce, 1 teaspoon of salt. Bring to a light boil, reduce to lowest stove setting. Cover and simmer for 30mns. Stir and check salt levels every 10mns. If using spinach, blend it in the dhal 5 minutes before the end of cooking time, turning up the stove if needed.
 
 *** Beans
-
 Can be a meal by itself, or combined with a protein and a green vegetable.
 Try it with white beans (Pinto or Navy), or with black beans.
 
@@ -124,67 +112,52 @@ Great for breakfast with sugar and butter, in yogurt, or savory as a substitute 
 
 For 3 portions: in a cooking pot, put one cup of steel cut oats, three cups water, big pinch of salt. Bring to a rolling boil, until foaming starts. Stir, reduce to a simmer and cover. Cook for 10 minutes. Turn off the stove. Leave covered pot on stover overnight. Oats will be perfect in the morning.
 
-
 *** Quinoa
-
 For 3 portions: in a cooking pot, mix 2 cups of quinoa, 3 cups water, salt. Bring to a light boil, stir, reduce to lowest stove setting. Cover and let simmer for 15 minutes. Turn off stove, and let rest for another 10 minutes still covered. Fluff with a wooden spoon.
-
 
 ** Green vegetables
 
 *** Broccoli
-
 Wash one head of broccoli. Cut flower into bite-size branches, cutting the thicker ones in half. Drizzle 1 tablespoon oil, sprinkle salt, pepper, gochugaru. Microwave for 3 minutes.
 
 *** Asparagus
-
 For green asparagus, trim the lower third, or remove the thick skin with a vegetable peeler. Drizzle 1 tablespoon oil, sprinkle salt, pepper, gochugaru. Microwave for 3 minutes.
 
 *** Bok choi
-
 Wash, cut in 1/2 inch slices lengthwise. Microwave for 4 minutes. Eat over rice or steel cut oats. Flavor with soy sauce or ponzu.
 
 *** Leek
-
 Trim roots. Cut in half lengthwise. Wash, making sure to remove dirt between outer layers. Chop in 1/4 inch slices. Drizzle oil, salt, pepper, gochugaru or smoked paprika, dash toasted sesame oil. Microwave for 3 minutes.
 
 *** Dino kale
-
 Trim stems. Rinse unter faucet, shake dry. Chop into narrow 1/8 inch strips, cutting perpendicular to main stem. Drizzle oil, salt, pepper, gochugaru or smoked paprika, dash toasted sesame oil. Microwave for 3 to 5 minutes.
 
 *** Brussel sprouts
-
 Warm up oven at 400 degrees. Rinse, trim stem, cut in quarters. On baking sheet, toss with 2 tablespoons of oil, generous amount of salt, pepper. It does need more salt than other greens. Spread on baking sheet, a bit spaced out. 30 minutes in the oven on top rack. Then toss, and put in for another 15 minutes, more if neeed.
 
 
 ** Meat & fish
 
 *** Ground beef
-
 Preheat your oven at 400F. Dice two onions, toss on baking sheet, mix in one tablespoon of oil, pepper, salt, smoked paprika or gochugaru. Spread evenly on baking sheet and bake for about 20mns, until onions are golden brown. Then mix in the ground beef, adding more salt if needed. Spread evenly, and bake for another 10 to 12 minutes, until the ground beef is fully cooked. Break larger chunks using a wooden spoon. Add more salt if needed.
 
 Serve over any starch: potatoes, sweet potatoes, rice...
-Makes a good chili con carne if you combine with the black bean recipe below.
 Also, try spreading some on your omelet.
 
 *** Pork chops
 
 **** Method 1: skillet
-
 Preheat your oven at 350F. Warm up two tablespoons of oil in your skillet. Salt/pepper the meat. Sear your pork chops on both sides until golden brown, about 3 to 5 minutes on each side. Hint: don't crowd the pan! For best results, make sure your pork chops are spread at least one inch apart from each other. Then put your skillet in the oven for 5 to 10 minutes, depending how thick your pork chop is. Take it out of the oven, let rest for at least 5mns. You're done.
 
 **** Method 2: oven broiler
-
 This is handy if you want to prepare larger batches. Start your oven on high broiler. Salt/pepper the meat. Lightly sprinkle with oil, but not too much, otherwise your kitchen will get very smoky. Put in the oven, with the meat at least 5 inches away from the broiler element. Careful, some oven broilers put out a lot of heat. Sear a couple minutes on each side, until golden brown. Turn off the broiler, start your oven at 350F. Finish cooking your pork chops in the bottom rack of the oven for 5 to 10 minutes, depending on how thick your pork chops are. Take them out of the oven, let rest for at least 5 minutes. You're done.
 
 *** Sausage
-
 Buy fresh pork sausage, quite thick (1 to 1.5"). Mild italian works too. If you can only find pre-cooked sausage, try kielbasa. Simply put in baking sheet under the broiler, a few minutes on each side until golden brown. Then turn off the broiler, move the baking sheet to the bottom of the oven, let sit for 10mns with oven door closed.
 
 Serve with any starch and grilled vegetable. Delicious in omelets. Or sliced, with beans.
 
 *** Salmon
-
 **** Method 1: broiler salmon
 If possible, get thick atlantic salmon. Preheat oven broiler. Warm up 1 tablespoon oil in skillet. Rub one teaspoon oil, salt, pepper, gochugaru on salmon. Put salmon skin down into skillet. Then cook 3 to 5 minutes under the broiler, until lightly crisped. If center needs more cooking, turn off broiler, move skillet to low rack, and leave in closed oven for another 5 minutes. Take out of oven, let rest for 5 minutes and serve.
 
@@ -195,7 +168,6 @@ Preheat oven at 350F. On a hot stove, heat up a skillet with 3 tablespoons of oi
 ** Eggs
 
 *** Hard boiled eggs
-
 They taste great when a little soft, they will reheat better and have a better texture. Boil water in a pot, making sure there is enough water to cover the eggs with an extra inch. When water is boiling, add the eggs. Start an 8-minute timer. When done, empty the boiling water, and fill the pot with cold water to quickly stop cooking. Replace cold water a couple times until eggs are lukewarm. Peel off the shell, store in a container with salt, pepper, gochugaru and a dash of sesame seed oil.
 
 *** Omelets
@@ -208,7 +180,6 @@ They taste great when a little soft, they will reheat better and have a better t
 This is a fun recipe for individual, single-portions omelets. They take less than 5 minutes to make, and they're great for breakfast. In a bowl, crack two eggs, 2 tablespoons of liquid cream or cottage cheese, salt, pepper, a dash of fish sauce. You can also add a big teaspoon of gochujang. Whisk until homogeneous. Cook in microwave oven for 90 seconds (1:30m). Scramble with a fork, then add a starch (chopped potatoes, spoonful of rice, quinoa...). You can also add ground meat or any protein. Put in microwave for another 90s (1:30m). Dress with chopped green onions, serve with kimchi and your favorite flavoring sauce.
 
 **** Method 2: traditional
-
 Ingredients for 3 people:
 - 6 eggs
 - 2 oz grated cheddar cheese
@@ -240,7 +211,6 @@ Heat up a skillet with 2 tablespoons of oil. When hot, pour the egg batter. Let 
 :END:
 
 *** Pasta pomodoro
-
 Ingredients, 4 portions:
 - Pureed tomato, 1 28oz can (SMT is a good brand)
 - 1 box DeCecco pasta. #41 penne rigate are good for this recipe.
@@ -257,7 +227,6 @@ Blanch pasta in boiling water with 2 talespoons of oil and a small fistful of sa
 Pour over the cooked pasta. Plate with grated parmiggiano and fresh chopped basil, or any other herb you have available.
 
 *** Spinach pasta
-
 Ingredients, 4 portions:
 - 1 box DeCecco pasta. #34 fusilli are good for this recipe.
 - 1 pint whipping cream
@@ -279,7 +248,6 @@ Blanch pasta in boiling water with 2 talespoons of oil and a small fistful of sa
 The basic recipe is declined in very many ways around the world. Here are a few variations that are easy to prepare and reuse.
 
 *** Basic recipe: grilled chicken over rice
-
 Ingredients (three portions):
 - Six chicken thighs, boneless skinless
 - 2 cups white rice
@@ -316,7 +284,6 @@ In a pot, put two cups of rice and three cups of water. Chop ginger in roughly 1
 With a pair of thongs, pull out the chicken thighs. Then pull out the ginger slices, and discard them. You can pull out the cooked green onions and discard them, or chop them and mix them in with the rice. The plating is identical to the previous recipe: scoop rice in a bowl, put sliced chicken on top, add green onions or other herbs, finish with soy sauce and your favorite dressing.
 
 *** Chicken curry
-
 This is an extension of our first recipe ("grilled chicken over rice"). You'll first want to make the rice and grill the chicken. While they're cooking, you'll prepare your curry.
 
 Ingredients (3 portions):
@@ -332,7 +299,6 @@ Ingredients (3 portions):
 Dice the onion. In a pot, heat up a big dash of oil until it gets nice and hot. Add cumin seeds, let them crackle for a few seconds. Then add your curry powder and turmeric powder. Mix them in with the hot oil, and let them darken for a minute. Then toss in the diced onions. Mix in, let the onions take color for 5 to 10 minutes, stirring occasionally. White the onions cook, dice the chicken. Once the onions are done, add the can of coconut cream, the ginger, and the diced chicken. Add a dash of fish sauce, salt, bring to a light boil, reduce to a simmer. Check for salt. Cover for 10 minutes. Now you're ready to plate, two scoops of rice in each bowl, ladle in some curry, then cover in chopped green onions or your herb of choice.
 
 ** Ratatouille
-
 Very versatile dish that can be used as a side, or as a main course if you add a protein. Great with sausage.
 
 Ingredients (4 portions):
@@ -346,8 +312,27 @@ Ingredients (4 portions):
 
 Dice onion and red pepper. In a cooking pot, warm up 2 tablespoons of oil. Saute onions together with red pepper until brown. While they cook, trim green end of eggplants, and cut them up in 1.5 inch cuboids. Trim zucchini stem and dice them. Once onions and red pepper are done, add diced tomato. Add plenty of salt, one big dash of fish sauce, and gochujang. Mix in zucchini and eggplant. Bring to a light boil, reduce to a simmer. Cover and cook for about 90 minutes. Check for salt at the 60 minute mark.
 
-** Breakfast
+** Easy chili
+Ingredients (6 portions):
+- 2 cups rice
+- 2 16oz cans black beans
+- 1 16oz can crushed (or diced) tomato
+- 1 onion, 3 cloves garlic
+- Chili powder
+- Optional: pepper flakes
+- Optional: bay leaf
+- 1lbs ground beef or turkey
+- Optional: 2 to 4 fresh sausages
+- Optional: cilantro, green onions, lime juice, grated cheese
 
+Step 1: maillard the ground meat and the sausage. Simplest is to flatten the ground meat and sausage on a skillet and leave it under the broiler approx 5mns. Each side. Salt and pepper. You want a nice brown crust.
+Step 2: start making rice (see recipe above). Don't forget to let it sit once cooked.
+Step 3: Dice onion. In large pot, warm up 2 tablespoons of oil. Bloom 1 big tablespoon of chili powder in hot oil. Add a couple shakes of pepper flakes if you have them. Add diced onions, saute onions in hot oil until golden brown.
+Step 4: Pour crushed (or diced tomato) in pot with onions, then pour 2 cans black beans including bean liquid in pot. Don't discard bean liquid, it's delicious. Add bay leaf if you have it. Bring to simmer, start adding salt.
+Step 5: Dice cooked ground meat and sausage. Add to pot. Simmer for another 10-15 minutes while rice sits. Adjust salt levels.
+Step 6: Serve with rice. Top with cilantro. Optional: green onions, lime juice, grated cheese.
+
+** Breakfast
 Possibly the most important meal of the day. A few ideas:
 - [[id:ee53971c-2c37-11f0-8218-9972eed4dabe][Microwave oven omelet]] or leftover [[id:96e08d3c-2c38-11f0-8218-9972eed4dabe][frittata]].
 - [[id:0fc872da-2c38-11f0-8218-9972eed4dabe][Steel cut oats]] with butter, sugar and cinnamon. Prepare the night before. When plating, add 1 teaspoon of butter, 2 tablespoons of sugar, microwave for 3 minutes. Sprinkle with cinnamon.  Optional: top with berries or bananas.
@@ -358,16 +343,13 @@ Make your coffee the night before.
 ** Sandwiches
 
 ** Food safety
-
 Keep food safety in mind. A few principles:
 - Wash your hand before and after cooking
 - Wash your hands immediately before and immediately after touching meat or fish. Don't touch anything else before washing your hands.
 - Disinfect cutting boards
 
 ** Planning: making menus and shopping list
-
 It is most efficient to plan your meals in advance, so that you can reduce the amount of time spent grocery shopping and cooking.
-
 
 ** Maintenance
 - Skillet
