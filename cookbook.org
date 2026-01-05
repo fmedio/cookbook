@@ -6,11 +6,9 @@ TODO add
 - poulet basquaise
 - zosui soup
 - miso soup
-- blackened salmon
 
 TODO
 - Talk about parchment paper
-- Remove gochujang/gochugaru from bases
 
 ** Introduction
 Inexpensive, fast, healthy, delicious food. You can have it all if you make it yourself. This book has basic recipes that are can be stored, reheated and combined. They can be easily packed for lunch at work.
@@ -65,16 +63,16 @@ Cilantro has a unique flavor that goes well with Asian and latino-american dishe
 Use white rice. Basmati and Calrose are great choices. In a pot, put one measure of rice, and one-and-a-half measure of water. For three servings of rice, use two cups of rice and three cups of water. Add two pinches of salt. Bring to a light boil, then reduce to a simmer on your lowest stove setting. Cover, and leave on for twenty minutes. Turn off the stove, let it rest for another ten minutes. You're done.
 
 *** Potatoes
-Buy fingerling potaoes and use them whole, skin on. Or buy Yukon Golds, and chop them in 1.5-inch cuboids. In a bowl, toss with a bit of oil, good amount of salt, pepper, gochugaru or smoked paprika.
+Buy fingerling potaoes and use them whole, skin on. Or buy Yukon Golds, and chop them in 1.5-inch cuboids. In a bowl, toss with a bit of oil, good amount of salt, pepper. Optional: gochugaru or smoked paprika. For Christmas/holiday feel, use ground nutmeg and a pinch of cinnamon.
 
 **** Method 1: microwave oven
 Microwave for 3mns at a time. Toss and test with a fork between each 3mn run. It will take 6 to 9 minutes to get them fully cooked thru.
 
 **** Method 2: oven
-Preheat oven at 400F. Spread potatoes on baking sheet, mix with 2 tablspoons of oil, good amount of salt, pepper, gochugaru or smoked paprika. Space out the chunks, ideally they won't touch. That will give you better Maillard. Bake 20 minutes, turn/toss the potatoes, bake another 15mns or so.
+Preheat oven at 375F. Spread potatoes on baking sheet, mix with 2 tablspoons of oil, good amount of salt, pepper, gochugaru or smoked paprika. Space out the chunks, ideally they won't touch. That will give you better Maillard. Bake 20 minutes, turn/toss the potatoes, bake another 15mns or so.
 
 *** Sweet potatoes
-Preheat oven at 400F. Put 2 tablespoons of oil in a skillet, warm it up on the stove. Put sweet potatoes on skillet, sprinkle salt and pepper, then straight in the oven. Turn after 30 minutes, then another 30mns in oven. 60 minutes total. Check for doneness with a fork.
+Preheat oven at 375F. Put 2 tablespoons of oil in a skillet, warm it up on the stove. Cut sweet potatoes in half lengthwise. Put sweet potatoes on skillet, face down. Rub sides against each other to ensure good oil spread. Then lay them on skillet with skin facing down. sprinkle salt and pepper. Then straight in the oven. Turn after 30 minutes, then another 30mns in oven. 60 minutes total. Check for doneness with a fork.
 
 *** Dhal
 Very versatile, can be a meal by itself, or combined with a protein and a green vegetable.
@@ -91,17 +89,23 @@ Ingredients for 3 portions:
 Dice the onion. In cooking pot, warm up 3 tablespoons of oil. Put half a teaspoon of cumin seed, let it sizzle for a minute. Then add a teaspoon of tumeric, and one of curry powder. Mix in with oil, let color darken a litle. Add diced onion, let them brown for a bit. Add 1 can diced tomatoes, mix them in with the onion. Then add 1 cup red lentils, 3 cups of water, 1 dash of fish sauce, 1 teaspoon of salt. Bring to a light boil, reduce to lowest stove setting. Cover and simmer for 30mns. Stir and check salt levels every 10mns. If using spinach, blend it in the dhal 5 minutes before the end of cooking time, turning up the stove if needed.
 
 *** Beans
+:PROPERTIES:
+:ID:       84392b4b-6b18-45fe-a1ec-31af2c1a349a
+:END:
 Can be a meal by itself, or combined with a protein and a green vegetable.
 Try it with white beans (Pinto or Navy), or with black beans.
 
 Ingredients for 3 portions:
-- 1 14.5oz can of white beans (Navy and Pinto also work great)
-- 1 14.5oz can of diced tomatoes (fire-roasted even better)
+- 2 15oz can of beans (black, pinto or red work equally as well)
+- 1 15oz can of diced tomatoes (fire-roasted even better)
 - 1 onion
-- fish sauce
-- gochujang
+- Bay leaf
+- chili powder
 
-Dice one onion. Warm up 2 tablespoons of oil in cooking pot. Cook onions until nice and brown. Add diced tomatoes. Bring to a gentle boil, then add 1 tablespoon gochujang, 1 dash fish sauce, salt as needed. Simmer for 10mns. Add beans and their liquid. Don't discard the liquid! It's delicious. Cook for another 10mns. Adjust salt levels.
+Dice one onion. Warm up 2 tablespoons of oil in cooking pot. Bloom 1tblspoon of chili powder in oil. Cook onions until nice and brown. Add diced tomatoes. Add beans and their liquid. Don't discard the liquid! It's delicious. Take maybe 1/10th of the beans in the pot in a cup, crush them with a spoon and add them back to the pot for improved texture. Bring to a boil, adjust salt levels, simmer 15mns.
+
+Delicious by itself, topped with chives/green onions, grated cheese, crackers...
+Put some in a skillet, crack some eggs on it, bake 10/15mns, shakshuka-style. Serve with herbs.
 
 *** Overnight steel cut oats
 :PROPERTIES:
@@ -118,28 +122,28 @@ For 3 portions: in a cooking pot, mix 2 cups of quinoa, 3 cups water, salt. Brin
 ** Green vegetables
 
 *** Broccoli
-Wash one head of broccoli. Cut flower into bite-size branches, cutting the thicker ones in half. Drizzle 1 tablespoon oil, sprinkle salt, pepper, gochugaru. Microwave for 3 minutes.
+Wash one head of broccoli. Cut flower into bite-size branches, cutting the thicker ones in half. Drizzle 1 tablespoon oil, sprinkle salt, pepper. Optional: smoked paprika, smoked cumin powder, or gochugaru. Microwave for 3 minutes.
 
 *** Asparagus
-For green asparagus, trim the lower third, or remove the thick skin with a vegetable peeler. Drizzle 1 tablespoon oil, sprinkle salt, pepper, gochugaru. Microwave for 3 minutes.
+For green asparagus, trim the lower third, or remove the thick skin with a vegetable peeler. Drizzle 1 tablespoon oil, sprinkle salt, pepper. Optional: smoked paprika, gochugaru. Microwave for 3 minutes.
 
 *** Bok choi
 Wash, cut in 1/2 inch slices lengthwise. Microwave for 4 minutes. Eat over rice or steel cut oats. Flavor with soy sauce or ponzu.
 
 *** Leek
-Trim roots. Cut in half lengthwise. Wash, making sure to remove dirt between outer layers. Chop in 1/4 inch slices. Drizzle oil, salt, pepper, gochugaru or smoked paprika, dash toasted sesame oil. Microwave for 3 minutes.
+Trim roots. Cut in half lengthwise. Wash, making sure to remove dirt between outer layers. Chop in 1/4 inch slices. Drizzle oil, salt, pepper. Optional: gochugaru or smoked paprika, dash toasted sesame oil. Microwave for 3 minutes.
 
 *** Dino kale
-Trim stems. Rinse unter faucet, shake dry. Chop into narrow 1/8 inch strips, cutting perpendicular to main stem. Drizzle oil, salt, pepper, gochugaru or smoked paprika, dash toasted sesame oil. Microwave for 3 to 5 minutes.
+Trim stems. Rinse unter faucet, shake dry. Chop into narrow 1/8 inch strips, cutting perpendicular to main stem. Drizzle oil, salt, pepper. Optional: gochugaru or smoked paprika, dash toasted sesame oil. Microwave for 3 to 5 minutes.
 
 *** Brussel sprouts
-Warm up oven at 400 degrees. Rinse, trim stem, cut in quarters. On baking sheet, toss with 2 tablespoons of oil, generous amount of salt, pepper. It does need more salt than other greens. Spread on baking sheet, a bit spaced out. 30 minutes in the oven on top rack. Then toss, and put in for another 15 minutes, more if neeed.
+Warm up oven at 375F. Rinse, trim stem, cut in quarters. In a bowl, toss with 2 tablespoons of oil, generous amount of salt, pepper, optionally grated nutmeg. It does need more salt than other greens. Spread on baking sheet, a bit spaced out. 30 minutes in the oven on top rack. Then shuffle, and put in for another 15 minutes, more if neeed.
 
 
 ** Meat & fish
 
 *** Ground beef
-Preheat your oven at 400F. Dice two onions, toss on baking sheet, mix in one tablespoon of oil, pepper, salt, smoked paprika or gochugaru. Spread evenly on baking sheet and bake for about 20mns, until onions are golden brown. Then mix in the ground beef, adding more salt if needed. Spread evenly, and bake for another 10 to 12 minutes, until the ground beef is fully cooked. Break larger chunks using a wooden spoon. Add more salt if needed.
+Preheat your oven at 375F. Dice two onions, toss on baking sheet, mix in one tablespoon of oil, pepper, salt, smoked paprika or gochugaru. Spread evenly on baking sheet and bake for about 20mns, until onions are golden brown. Then mix in the ground beef, adding more salt if needed. Spread evenly, and bake for another 10 to 12 minutes, until the ground beef is fully cooked. Break larger chunks using a wooden spoon. Add more salt if needed.
 
 Serve over any starch: potatoes, sweet potatoes, rice...
 Also, try spreading some on your omelet.
@@ -198,10 +202,10 @@ Ingredients for 8 portions:
 - 8 eggs
 - 1 cup liquid cream, or cottage cheese
 - Fish sauce
-- Gochujang
+- Optional: smoked paprika powder, or gochugaru
 - 2 cups cooked starch (rice, potatoes, steel-cut oats...)
 
-Heat up the oven at 350F. In a large bowl, break 8 eggs, top with 1 cup of liquid cream or cottage cheese. Add a dash of fish sauce, and one big tablespoon of gochujang. Add salt and pepper. Whisk until homogeneons. Then incorporate whichever starch you're using.
+Heat up the oven at 350F. In a large bowl, break 8 eggs, top with 1 cup of liquid cream or cottage cheese. Add a dash of fish sauce, salt and pepper. Optional: add 1/2 teaspoon smoked paprika, or gochugaru. Whisk until homogeneons. Then incorporate whichever starch you're using.
 
 Heat up a skillet with 2 tablespoons of oil. When hot, pour the egg batter. Let it cook for one minute, then wrinkle the eggs a couple of times, detaching the bottom layer, scrambling gently. When you the batter is half-cooked and half-liquid, put in the oven. Let it cook for about 20mns, until nice and golden on top. Then let it cool for 5mns, detach the edges from the skillet using a spatula, and flip it upside-down on a cutting board. Cut in wedges or in squares. Plate and top with herbs, or keep in the fridge for up to 3 days.
 
@@ -256,7 +260,7 @@ Ingredients (three portions):
 - Soy sauce
 - Your favorite dressing sauce: sriracha, spicy mayo, japanese BBQ sauce...
 
-First, preheat your oven at 400F.
+First, preheat your oven at 375F.
 
 Then, let's make the rice. You'll use white rice. Basmati and Calrose are great choices. In a pot, put one measure of rice, and one-and-a-half measure of water. For three servings of rice, use two cups of rice and three cups of water. Add two pinches of salt. Bring to a light boil, then reduce to a simmer on your lowest stove setting. Cover, and leave on for twenty minutes. Turn off the stove, let it rest for another ten minutes. You're done.
 
@@ -307,12 +311,18 @@ Ingredients (4 portions):
 - 1 onion
 - 1 red pepper
 - 2 14oz cans diced tomato (fire roasted even better)
-- Gochujang
+- Smoked paprika
+- Red pepper flakes
 - Fish sauce
+- Bay leaf
+- 1/2 cup red lentils
 
-Dice onion and red pepper. In a cooking pot, warm up 2 tablespoons of oil. Saute onions together with red pepper until brown. While they cook, trim green end of eggplants, and cut them up in 1.5 inch cuboids. Trim zucchini stem and dice them. Once onions and red pepper are done, add diced tomato. Add plenty of salt, one big dash of fish sauce, and gochujang. Mix in zucchini and eggplant. Bring to a light boil, reduce to a simmer. Cover and cook for about 90 minutes. Check for salt at the 60 minute mark.
+Dice onion and red pepper. In a cooking pot, warm up 2 tablespoons of oil. Bloom smoked paprika and red pepper flakes. Add onions and red pepper, saute until light brown. While they cook, trim eggplants, and cut them up in 1-inch cuboids. Trim and dice zucchini. Once onions and red pepper are done, add diced tomato. Add plenty of salt, one big dash of fish sauce. Add in 1/2 cup of red lentils and 1 cup of water. Mix in zucchini and eggplant. Bring to a light boil, reduce to a simmer. Cover and cook for about 90 minutes. Check for salt at the 60 minute mark.
 
 ** Easy chili
+:PROPERTIES:
+:ID:       9978a006-70f6-41fd-9c4b-27aab2503b55
+:END:
 Ingredients (6 portions):
 - 2 cups rice
 - 2 16oz cans black beans
@@ -356,3 +366,7 @@ It is most efficient to plan your meals in advance, so that you can reduce the a
 - Knives
 
 ** Nutrition
+
+* Changelog
+- [2026-01-04 Sun] tweak [[id:84392b4b-6b18-45fe-a1ec-31af2c1a349a][beans]] section. Make recipes gochujang-agnostic. Tweak potato and sweet potato recipe.
+- [2026-01-03 Sat] add [[id:9978a006-70f6-41fd-9c4b-27aab2503b55][Easy chili]] recipe
