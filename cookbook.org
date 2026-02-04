@@ -6,6 +6,8 @@ TODO add
 - poulet basquaise
 - zosui soup
 - miso soup
+- Luc's mashed potatoes
+- Coquillettes et jambon
 
 TODO
 - Talk about parchment paper
@@ -74,7 +76,7 @@ Preheat oven at 375F. Spread potatoes on baking sheet, mix with 2 tablspoons of 
 *** Sweet potatoes
 Preheat oven at 375F. Put 2 tablespoons of oil in a skillet, warm it up on the stove. Cut sweet potatoes in half lengthwise. Put sweet potatoes on skillet, face down. Rub sides against each other to ensure good oil spread. Then lay them on skillet with skin facing down. sprinkle salt and pepper. Then straight in the oven. Turn after 30 minutes, then another 30mns in oven. 60 minutes total. Check for doneness with a fork.
 
-*** Dhal
+*** Dal
 Very versatile, can be a meal by itself, or combined with a protein and a green vegetable.
 
 Ingredients for 3 portions:
@@ -111,7 +113,6 @@ Put some in a skillet, crack some eggs on it, bake 10/15mns, shakshuka-style. Se
 :PROPERTIES:
 :ID:       0fc872da-2c38-11f0-8218-9972eed4dabe
 :END:
-
 Great for breakfast with sugar and butter, in yogurt, or savory as a substitute for rice. Not to be confused with rolled oats.
 
 For 3 portions: in a cooking pot, put one cup of steel cut oats, three cups water, big pinch of salt. Bring to a rolling boil, until foaming starts. Stir, reduce to a simmer and cover. Cook for 10 minutes. Turn off the stove. Leave covered pot on stover overnight. Oats will be perfect in the morning.
@@ -148,6 +149,17 @@ Preheat your oven at 375F. Dice two onions, toss on baking sheet, mix in one tab
 Serve over any starch: potatoes, sweet potatoes, rice...
 Also, try spreading some on your omelet.
 
+*** Italian beef stew (use chuck, oxtail, or brisket)
+:PROPERTIES:
+:ID:       dd33d677-d217-4b0e-a642-74c7a5aa419c
+:END:
+My grandmother Paulette made this one with beef cheek. It was so good.
+Get 2 cans crushed tomatoes, 1 head garlic, 1 onion
+1. Cut 1.5 inch steaks from chuck. Brown them on both sides in large pot, salt + pepper. Set aside.
+2. Saute onions in same pot until brown. Add 2 cans crushed tomatoes, 6 heads onions, salt, bay leaf, 2 cups of water, pepper flakes, smoked paprika.
+3. Cube chuck steaks into 1.5 inch cubes. Drop in pot. Bring to a boil, reduce to a simmer, check for salt, cover. Low simmer for 3 hours. Check for salt again at 2hr mark.
+You have yourself the best multipurpose beef chuck. Eat as is, or chopped on pasta/vegetables.
+
 *** Pork chops
 
 **** Method 1: skillet
@@ -180,7 +192,6 @@ They taste great when a little soft, they will reheat better and have a better t
 :PROPERTIES:
 :ID:       ee53971c-2c37-11f0-8218-9972eed4dabe
 :END:
-
 This is a fun recipe for individual, single-portions omelets. They take less than 5 minutes to make, and they're great for breakfast. In a bowl, crack two eggs, 2 tablespoons of liquid cream or cottage cheese, salt, pepper, a dash of fish sauce. You can also add a big teaspoon of gochujang. Whisk until homogeneous. Cook in microwave oven for 90 seconds (1:30m). Scramble with a fork, then add a starch (chopped potatoes, spoonful of rice, quinoa...). You can also add ground meat or any protein. Put in microwave for another 90s (1:30m). Dress with chopped green onions, serve with kimchi and your favorite flavoring sauce.
 
 **** Method 2: traditional
@@ -196,7 +207,6 @@ For 3 people: beat 6 eggs in a large bowl. Heat up 2 tblspoons of butter in skil
 :PROPERTIES:
 :ID:       96e08d3c-2c38-11f0-8218-9972eed4dabe
 :END:
-
 This recipe keeps for 3 days. Great for packed lunches and no-cook breakfasts.
 Ingredients for 8 portions:
 - 8 eggs
@@ -243,12 +253,10 @@ Ingredients, 4 portions:
 
 Blanch pasta in boiling water with 2 talespoons of oil and a small fistful of salt for 11 minutes. While the pasta boils, mince 3 cloves of garlic and dice one onion. Warm up 2 tablespoons of oil in a skillet. Cook onions until nice and brown. Mix in garlic, spinach, green peas until defrosted. Add in whipping cream, big dash dish sauce, salt, pepper. Bring to a light boil, reduce to a strong simmer for 10 minutes. Let some cream evaporate. Taste for salt. Once done, pour over the pasta and mix. Plate with with grated parmiggiano and fresh chopped basil, or any other herb you have available.
 
-
 ** Chicken and rice
 :PROPERTIES:
 :ID:       85f6791c-2c3a-11f0-8218-9972eed4dabe
 :END:
-
 The basic recipe is declined in very many ways around the world. Here are a few variations that are easy to prepare and reuse.
 
 *** Basic recipe: grilled chicken over rice
@@ -271,7 +279,6 @@ Now let's plate. Put two scoops of rice in a bowl. Cut two chicken thighs in str
 With five minutes of hands-on work, you just made the most delicious bowl of chicken and rice. You can reuse the leftover in many ways, which we'll explore below.
 
 *** Hainanese chicken and rice
-
 There's an even easier way to make chicken and rice, with a single pot. Originally from Hainan in China, the recipe became Singapore's national dish. Here's a basic version.
 
 Ingredients (three portions):
@@ -365,8 +372,7 @@ It is most efficient to plan your meals in advance, so that you can reduce the a
 - Skillet
 - Knives
 
-** Nutrition
-
 * Changelog
-- [2026-01-04 Sun] tweak [[id:84392b4b-6b18-45fe-a1ec-31af2c1a349a][beans]] section. Make recipes gochujang-agnostic. Tweak potato and sweet potato recipe.
-- [2026-01-03 Sat] add [[id:9978a006-70f6-41fd-9c4b-27aab2503b55][Easy chili]] recipe
+- [2026-02-03 Tue] [[id:dd33d677-d217-4b0e-a642-74c7a5aa419c][Italian beef stew]]
+- [2026-01-04 Sun] Tweak [[id:84392b4b-6b18-45fe-a1ec-31af2c1a349a][beans]] section. Make recipes gochujang-agnostic. Tweak potato and sweet potato recipe.
+- [2026-01-03 Sat] Add [[id:9978a006-70f6-41fd-9c4b-27aab2503b55][Easy chili]] recipe
