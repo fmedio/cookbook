@@ -7,7 +7,6 @@ TODO add
 - zosui soup
 - miso soup
 - Luc's mashed potatoes
-- Coquillettes et jambon
 
 TODO
 - Talk about parchment paper
@@ -251,7 +250,21 @@ Ingredients, 4 portions:
 - Fish sauce
 - Parmiggiano reggiano
 
-Blanch pasta in boiling water with 2 talespoons of oil and a small fistful of salt for 11 minutes. While the pasta boils, mince 3 cloves of garlic and dice one onion. Warm up 2 tablespoons of oil in a skillet. Cook onions until nice and brown. Mix in garlic, spinach, green peas until defrosted. Add in whipping cream, big dash dish sauce, salt, pepper. Bring to a light boil, reduce to a strong simmer for 10 minutes. Let some cream evaporate. Taste for salt. Once done, pour over the pasta and mix. Plate with with grated parmiggiano and fresh chopped basil, or any other herb you have available.
+Blanch pasta in boiling water with 2 tblspn of oil and a small fistful of salt for 11 minutes. While the pasta boils, mince 3 cloves of garlic and dice one onion. Warm up 2 tablespoons of oil in a skillet. Cook onions until nice and brown. Mix in garlic, spinach, green peas until defrosted. Add in whipping cream, big dash dish sauce, salt, pepper. Bring to a light boil, reduce to a strong simmer for 10 minutes. Let some cream evaporate. Taste for salt. Once done, pour over the pasta and mix. Plate with with grated parmiggiano and fresh chopped basil, or any other herb you have available.
+
+*** Coquillettes et jambon
+:PROPERTIES:
+:ID:       5a5a1b91-dd29-434b-8576-16a4afc091ff
+:END:
+A childhood favorite. Ingredients:
+- Ham steaks (or regular ham slices)
+- Cheddar cheese
+- Liquid cream
+- Garlic
+- Elbow pasta
+- Optional: parsley, grated parmigian
+
+Blanch elbow pasta in boiling water with 2tblspn of oil and a small fistful of salt. Dice ham, mince garlic. One minute before the prescribed end time, toss pasta in colander, and return the pasta (minus water) to the pot. On low heat, add liquid cream, grated cheddar cheese until cheese melts. Add diced ham, minced garlic, pepper. Check for salt. Serve hot, dress with parsley and grated parmigian.
 
 ** Chicken and rice
 :PROPERTIES:
@@ -373,6 +386,6 @@ It is most efficient to plan your meals in advance, so that you can reduce the a
 - Knives
 
 * Changelog
-- [2026-02-03 Tue] [[id:dd33d677-d217-4b0e-a642-74c7a5aa419c][Italian beef stew]]
+- [2026-02-03 Tue] [[id:dd33d677-d217-4b0e-a642-74c7a5aa419c][Italian beef stew]], [[id:5a5a1b91-dd29-434b-8576-16a4afc091ff][coquillettes et jambon]]
 - [2026-01-04 Sun] Tweak [[id:84392b4b-6b18-45fe-a1ec-31af2c1a349a][beans]] section. Make recipes gochujang-agnostic. Tweak potato and sweet potato recipe.
 - [2026-01-03 Sat] Add [[id:9978a006-70f6-41fd-9c4b-27aab2503b55][Easy chili]] recipe
